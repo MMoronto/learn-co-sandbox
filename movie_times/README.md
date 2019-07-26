@@ -2,6 +2,7 @@
 
 This Ruby gem provides a Command Line Interface(CLI) to view a list of movies opening soon at theaters nearest to the user's zipcode per search results from the IMDB website.
 
+
 ## Installation
 
     $ gem install movie_times
